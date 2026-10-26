@@ -22,18 +22,18 @@
         "cancel": "Sefsex"
     },
     "about": {
-        "github_title": "PairDrop deg GitHub",
-        "close-about_aria-label": "Mdel Ɣef PairDrop"
+        "github_title": "LagFiles deg GitHub",
+        "close-about_aria-label": "Mdel Ɣef LagFiles"
     },
     "notifications": {
         "connecting": "Tuqqna…",
         "connected": "Yeqqen"
     },
     "header": {
-        "about_aria-label": "Ldi Ɣef PairDrop",
-        "about_title": "Ɣef PairDrop",
+        "about_aria-label": "Ldi Ɣef LagFiles",
+        "about_title": "Ɣef LagFiles",
         "language-selector_title": "Fren tutlayt",
-        "install_title": "Sbedd PairDrop",
+        "install_title": "Sbedd LagFiles",
         "edit-share-mode": "Ẓreg"
     }
 }
