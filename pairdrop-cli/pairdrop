@@ -10,7 +10,7 @@ version="v1.10.4"
 help()
 {
    # Display Help
-   echo "Send files or text with PairDrop via command-line interface."
+   echo "Send files or text with LagFiles via command-line interface."
    echo "Current domain: ${DOMAIN}"
    echo
    echo "Usage:"
